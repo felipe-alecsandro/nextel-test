@@ -1,0 +1,3 @@
+--timeout 5000
+test/bootstrap.test.js
+test/integration/controllers/*.test.js
