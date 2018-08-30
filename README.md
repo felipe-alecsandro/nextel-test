@@ -51,7 +51,7 @@ npm run lint
 ```
 
 OBS: ***** 
-There is a need as a premise to create a base in the mysql database with the name
+There is a need as a premise to create a new schema in the mysql database with the name
 db_super_hero_catalogue the integration of the sails with the database
 
 The whole project is raised in a local environment. Was used default ports and settings.
