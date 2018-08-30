@@ -25,15 +25,13 @@ This api was originally generated on Sat 25 2018 21:14:30 GMT-0300 (GMT-03:00) u
 
 1- Install Node, MySql and Redis in your machine
 
-2- Install dependecies, use:
-
+2- Install dependecies, in the root directory use:
 ```
 npm install
 ```
 
 3- To run tests, in the root directory use:
 ```
-
 npm run test
 ```
 
@@ -53,7 +51,7 @@ npm run lint
 ```
 
 OBS: ***** 
-There is a need as a premise to create a base in the Msql database with the name
+There is a need as a premise to create a base in the mysql database with the name
 db_super_hero_catalogue the integration of the sails with the database
 
 The whole project is raised in a local environment. Was used default ports and settings.
