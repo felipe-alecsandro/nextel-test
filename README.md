@@ -1,9 +1,9 @@
-# nextel-test-sails
+# nextel-test
 
 a [Sails v1](https://sailsjs.com) application
 
-# Nextel App
-This repo is dedicated to use Node, Sails, Express, Mysql, PubSub, Joi, Express validation, redis, Istanbul, mocha and more things...
+# Nextel REST api
+This repo is dedicated to use Node, Sails, Mysql, PubSub, Joi, chai, redis, Istanbul, mocha and more things...
 
 ### Links
 
@@ -17,7 +17,7 @@ This repo is dedicated to use Node, Sails, Express, Mysql, PubSub, Joi, Express 
 
 ### Version info
 
-This app was originally generated on Thu Sat 25 2018 21:14:30 GMT-0300 (GMT-03:00) using Sails v1.0.2.
+This api was originally generated on Sat 25 2018 21:14:30 GMT-0300 (GMT-03:00) using Sails v1.0.2.
 
 <!-- Internally, Sails used [`sails-generate@1.15.28`](https://github.com/balderdashy/sails-generate/tree/v1.15.28/lib/core-generators/new). -->
 
@@ -37,10 +37,10 @@ npm install
 npm run test
 ```
 
-4- To run tests coverage with istanbul, use:
+4- To run tests coverage, in the root directory use:
 ```
-npm run coverage
-
+npm run test:coverage
+```
 
 5- To run the code, use: 
 ```
