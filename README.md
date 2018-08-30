@@ -37,12 +37,17 @@ npm install
 npm run test
 ```
 
-4- To run the code, use: 
+4- To run tests coverage with istanbul, use:
+```
+npm run coverage
+
+
+5- To run the code, use: 
 ```
 sails lift
 ```
 
-5- To run lint, use: 
+6- To run lint, use: 
 ```
 npm run lint
 ```
